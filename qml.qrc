@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gameplay.qml</file>
+        <file>Toolbar.qml</file>
+        <file>Info.qml</file>
+        <file>Circle.qml</file>
+        <file>End.qml</file>
+    </qresource>
+</RCC>
